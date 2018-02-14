@@ -1,0 +1,29 @@
+{
+  "name": "amazon-product-search",
+  "version": "0.0.2",
+  "description": "Retrieves product information from the Amazon Product API.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.0.1"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johndwalker/amazon-product-search.git"
+  },
+  "author": "John Walker <johnathonwalker@icloud.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/johndwalker/amazon-product-search/issues"
+  },
+  "homepage": "https://github.com/johndwalker/amazon-product-search#readme"
+}
